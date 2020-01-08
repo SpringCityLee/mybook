@@ -7,7 +7,7 @@
     "gitbook":"3.2.3",
     "links":{
         "sidebar":{
-            "Home":"http://springcity.club"
+            "Home":"http://springcitylee.github.io"
         }
     },
     "plugins":[
@@ -32,10 +32,10 @@
             "showLevel":true
         },
         "github":{
-            "url":"https://github.com/LRH1993/android_interview"
+            "url":"https://github.com/SpringCityLee/springcitylee.github.io"
         },
         "github-buttons":{
-            "repo":"LRH1993/android_interview",
+            "repo":"SpringCityLee/springcitylee.github.io",
             "types":[
                 "star"
             ],
@@ -57,13 +57,13 @@
             ]
         },
         "tbfed-pagefooter":{
-            "copyright":"Copyright © ruheng.com 2017",
+            "copyright":"Copyright © springcitylee 2020",
             "modify_label":"该文件修订时间：",
             "modify_format":"YYYY-MM-DD HH:mm:ss"
         },
         "edit-link":{
-            "base":"https://github.com/LRH1993/android_interview/edit/master",
-            "label":"Edit This Page"
+            "base":"https://github.com/SpringCityLee/springcitylee.github.io",
+            "label":"issues"
         },
         "sectionx":{
             "tag":"b"

@@ -2,7 +2,7 @@
 
 ## 前言
 
-* [介绍](README.md)
+* [README](README.md)
 
 ## 日志
 
